@@ -1,0 +1,36 @@
+# E2E Corp
+
+> llms.txt 供大语言模型与 AI 搜索读取。
+> 提示：尚未配置"站点正式网址(site_url)"，以下链接为相对路径；配置后将自动升级为完整网址。
+
+## 站点简介 (Brand Summary)
+E2E Corp - Professional Manufacturer & Supplier
+
+## 核心卖点 (Selling Points)
+
+- Factory Direct
+- Fast Shipping
+- Quality Guarantee
+- 24h Service
+
+## 主要页面
+
+- Home: index.html
+- Contact: contact.html
+- Frequently Asked Questions: faq.html
+- About Us: page_about.html
+- about us again: page_fa.html
+- 可以: page_page.html
+- jjnk: page_jjnk.html
+
+## 产品列表 (4)
+
+- fdsj: product_11.html
+- uuu: product_14.html
+- liweis: product_8.html
+- fsaf: product_9.html
+
+## 多语言 (Multi-language)
+
+- Default language: en (en)
+- Published language versions: en
